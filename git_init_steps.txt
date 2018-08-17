@@ -1,0 +1,23 @@
+for first time use :
+
+git init
+git remote add origin "url of the repository"
+
+git add . 
+
+git commit -m "initial commit"
+
+git push origin master
+
+it will ask you to set global email and full name, the command will be written there, 
+this is first time only
+
+
+[4:51] 
+then each time you have update, you will do 
+
+git add . 
+
+git commit -m "some comment here"
+
+git push origin master
